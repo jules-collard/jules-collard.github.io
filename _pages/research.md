@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Off-Puck Scoring Opportunities
-_Valuing Offensive Player Movement in Ice Hockey_ \
+_Finalist Project for HALO 2026 Hackathon_ \
 [PDF Report](/assets/files/OPSO.pdf)
 
 ### StatCheck Hockey
@@ -18,8 +18,9 @@ _BSc Honours Project_ \
 [PDF Report](/assets/files/ordinal_regression.pdf)
 
 ### Modelling Baseball Exit Velocities with Block Maxima
-[Delta Epsilon - McGill Undergraduate Mathematics Journal - Spring 2025](https://thedeltaepsilonmcgill.github.io/pdfs/DE8.pdf) \
-[PDF Report](/assets/files/modelling_max_ev.pdf)
+[PDF Report](/assets/files/modelling_max_ev.pdf) \
+Publication:
+- [Delta Epsilon - McGill Undergraduate Mathematics Journal - Spring 2025](https://thedeltaepsilonmcgill.github.io/pdfs/DE8.pdf)
 
 ### Design & Analysis of 2x2 Cross-Over Trials
 _BSc Majors Project_ \
